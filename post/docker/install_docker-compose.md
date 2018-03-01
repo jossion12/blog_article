@@ -7,7 +7,7 @@ draft: false
 
 ------------------
 
-[TOC]
+
 
 # Install docker-compose
 
