@@ -27,7 +27,7 @@ draft: false
 
 ### 覆盖策略
 
-![](https://xuxifu-blog-img.oss-cn-beijing-internal.aliyuncs.com/post/dubbo/image/20180302_properties_covert.png)
+![](post/dubbo/image/20180302_properties_covert.png)
 
 JVM 启动 -D 参数优先，这样可以使用户在部署和启动时进行参数重写，比如在启动时需改变协议的端口。
 
