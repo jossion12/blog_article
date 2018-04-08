@@ -9,7 +9,7 @@ draft: false
 
 # Redis 注册中心
 
-![](image/20180302_redis.png)
+![](http://xuxifu-blog-img.oss-cn-beijing-internal.aliyuncs.com/post/dubbo/image/20180302_redis.png)
 
 使用 Redis 的 Key/Map 结构存储数据结构：
 

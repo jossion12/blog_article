@@ -22,12 +22,12 @@ draft: false
   * 比如：`dubbo.application.name=foo`等价于`<dubbo:application name="foo" />`
   * 比如：`dubbo.registry.address=10.20.153.10:9090`等价于`<dubbo:registry address="10.20.153.10:9090" />`
 * 如果 XML 有多行同名标签配置，可用 id 号区分，如果没有 id 号将对所有同名标签生效
-  * 比如：`dubbo.protocol.rmi.port=1234`等价于`<dubbo:protocol id="rmi" name="rmi" port="1099" />`[2](http://dubbo.io/books/dubbo-user-book/configuration/properties.html#fn_2)
+  * 比如：`dubbo.protocol.rmi.port=1234`等价于`<dubbo:protocol id="rmi" name="rmi" port="1099" />`
   * 比如：`dubbo.registry.china.address=10.20.153.10:9090`等价于`<dubbo:registry id="china" address="10.20.153.10:9090" />`
 
 ### 覆盖策略
 
-![](image/20180302_properties_covert.png)
+![](http://xuxifu-blog-img.oss-cn-beijing-internal.aliyuncs.com/post/dubbo/image/20180302_properties_covert.png)
 
 JVM 启动 -D 参数优先，这样可以使用户在部署和启动时进行参数重写，比如在启动时需改变协议的端口。
 

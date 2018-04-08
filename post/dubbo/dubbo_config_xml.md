@@ -45,7 +45,7 @@ draft: false
 
 ### 配置之间的关系
 
-![](image\20180302_config_relationship.png)
+![](http://xuxifu-blog-img.oss-cn-beijing-internal.aliyuncs.com/post/dubbo/image/20180302_config_relationship.png)
 
 | 标签                                                         | 用途         | 解释                                                         |
 | ------------------------------------------------------------ | ------------ | ------------------------------------------------------------ |
@@ -71,6 +71,6 @@ draft: false
 
 以Timeout为例
 
-![](image\timeout_config.png)
+![](http://xuxifu-blog-img.oss-cn-beijing-internal.aliyuncs.com/post/dubbo/image/20180302_timeout_config.png)
 
 ==**建议由服务提供方设置超时，因为一个方法需要执行多长时间，服务提供方更清楚**==
