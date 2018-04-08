@@ -9,7 +9,7 @@ draft: false
 
 # Redis 注册中心
 
-![](image/redis.png)
+![](image/20180302_redis.png)
 
 使用 Redis 的 Key/Map 结构存储数据结构：
 

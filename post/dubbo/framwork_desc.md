@@ -15,7 +15,7 @@ draft: false
 
 * 让我们从一张图说起
 
-  ![](.\image\Architecture.png)
+  ![](image\20180302_Architecture.png)
 
 | 节点        | 角色说明                               |
 | ----------- | -------------------------------------- |
@@ -84,7 +84,7 @@ draft: false
 
   * 这是Dubbo未来的图
 
-    ![](.\image\dubbo_future.png)
+    ![](image\20180302_dubbo_future.png)
 
   ##### 节点角色说明
 

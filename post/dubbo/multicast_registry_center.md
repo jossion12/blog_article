@@ -11,7 +11,7 @@ draft: false
 
 Multicast 注册中心不需要启动任何中心节点，只要广播地址一样，就可以互相发现。
 
-![](image/multicast.png)
+![](image/20180302_multicast.png)
 
 1. 提供方启动时广播自己的地址
 2. 消费方启动时广播订阅请求

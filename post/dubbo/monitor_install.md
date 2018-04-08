@@ -60,4 +60,4 @@ bin/start.sh
 
 http://192.168.99.100:8080
 
-![](image/dubbo_monitor.png)
+![](image/20180302_dubbo_monitor.png)
