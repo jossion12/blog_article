@@ -60,4 +60,4 @@ bin/start.sh
 
 http://192.168.99.100:8080
 
-![](http://xuxifu-blog-img.oss-cn-beijing-internal.aliyuncs.com/post/dubbo/image/20180302_dubbo_monitor.png)
+![](https://xuxifu-blog-img.oss-cn-beijing-internal.aliyuncs.com/post/dubbo/image/20180302_dubbo_monitor.png)

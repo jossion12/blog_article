@@ -15,7 +15,7 @@ draft: false
 
 * 让我们从一张图说起
 
-  ![](http://xuxifu-blog-img.oss-cn-beijing-internal.aliyuncs.com/post/dubbo/image/20180302_Architecture.png)
+  ![](https://xuxifu-blog-img.oss-cn-beijing-internal.aliyuncs.com/post/dubbo/image/20180302_Architecture.png)
 
 | 节点        | 角色说明                               |
 | ----------- | -------------------------------------- |
@@ -84,7 +84,7 @@ draft: false
 
   * 这是Dubbo未来的图
 
-    ![](http://xuxifu-blog-img.oss-cn-beijing-internal.aliyuncs.com/post/dubbo/image/20180302_dubbo_future.png)
+    ![](https://xuxifu-blog-img.oss-cn-beijing-internal.aliyuncs.com/post/dubbo/image/20180302_dubbo_future.png)
 
   ##### 节点角色说明
 
