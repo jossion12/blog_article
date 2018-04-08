@@ -3,6 +3,7 @@ title: "Redis registry center"
 date: 2018-03-05T16:30:46+08:00
 tags: ["dubbo","redis registry"]
 draft: false
+commentid: "Redis-registry-center"
 ---
 
 ------------------

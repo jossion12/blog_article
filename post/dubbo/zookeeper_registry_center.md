@@ -3,6 +3,7 @@ title: "Zookeeper registry center"
 date: 2018-03-05T15:48:46+08:00
 tags: ["dubbo", "Zookeeper registry"]
 draft: false
+commentid: "Zookeeper-registry-center"
 ---
 
 ------------------

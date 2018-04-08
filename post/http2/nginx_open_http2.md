@@ -3,6 +3,7 @@ title: "nginx_open_http2"
 date: 2018-02-22T16:12:46+08:00
 tags: ["http 2.0", "nginx"]
 draft: false
+commentid: "Nginx-http2"
 ---
 
 -------

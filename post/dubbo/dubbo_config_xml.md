@@ -3,6 +3,7 @@ title: "Dubbo XML Config"
 date: 2018-03-02T15:07:46+08:00
 tags: ["dubbo config","XML"]
 draft: false
+commentid: "Dubbo-XML-Config"
 ---
 
 ------

@@ -3,6 +3,7 @@ title: "Install docker-compose"
 date: 2018-02-20T21:07:46+08:00
 tags: ["docker-compose"]
 draft: false
+commentid: "Install-docker-compose"
 ---
 
 ------------------

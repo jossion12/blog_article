@@ -3,6 +3,7 @@ title: "Remove docker info to get more space"
 date: 2018-03-01T11:05:46+08:00
 tags: ["docker","docker log","docker image","docker volume"]
 draft: false
+commentid: "Remove-docker"
 ---
 
 ------------------

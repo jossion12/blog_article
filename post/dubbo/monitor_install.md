@@ -3,6 +3,7 @@ title: "monitor install"
 date: 2018-03-02T15:07:46+08:00
 tags: ["dubbo"]
 draft: false
+commentid: "Monitor-install"
 ---
 
 # 监控中心安装
