@@ -2,6 +2,7 @@
 title: "Dubbo Config Properties"
 date: 2018-02-20T21:07:46+08:00
 tags: ["Dubbo config","properties"]
+slug: dubbo-config-properties
 draft: false
 ---
 
